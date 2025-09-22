@@ -6,8 +6,8 @@ import json
 from urllib.parse import urlparse
 from collections import Counter
 
-API_KEY = "eac2e6c40b4840b59ce34a46eec19bb8"
-IPINFO_TOKEN = "37d0de5e6e0b0f"
+API_KEY = "YOUR_API_KEY"
+IPINFO_TOKEN = "YOUR_KEY"
 results = []
 
 
